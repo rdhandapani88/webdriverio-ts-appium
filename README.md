@@ -21,5 +21,6 @@ This project is the outcome of my self-learning mobile test automation with [Web
   - allure server ./allure-results
   - Checkout [allure Reporter](https://webdriver.io/docs/allure-reporter/) for more details
 
-Thanks to - https://www.linkedin.com/in/faisalkhatri for helping the community by sharing the knowledge.
+Thanks to - https://www.linkedin.com/in/faisalkhatri - for helping the community by sharing the knowledge.
+
 
