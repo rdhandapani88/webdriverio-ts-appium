@@ -22,23 +22,4 @@ This project is the outcome of my self-learning mobile test automation with [Web
   - allure server ./allure-results
   - Checkout [allure Reporter](https://webdriver.io/docs/allure-reporter/) for more details
 
-## :computer: Blog and Video Links
-
-- [WebdriverIO Appium Tutorial: A Getting Started Guide With Examples](https://medium.com/@iamfaisalkhatri/webdriverio-appium-tutorial-a-getting-started-guide-with-examples-b99dc713cb34)
-
-## :movie_camera: Tutorial Video 
-
-[![Watch the video](https://img.youtube.com/vi/zWm0F3-ayQw/hqdefault.jpg)](https://youtu.be/zWm0F3-ayQw)
-
-## :question: Need Assistance?
-
-- Discuss your queries by writing to me @ `mohammadfaisalkhatri@gmail.com`
-  OR ping me on any of the social media sites using the below link:
-   - [Linktree](https://linktr.ee/faisalkhatri)
-
-## :computer: Paid Trainings
-
-Contact me for Paid trainings related to Test Automation and Software Testing, 
-mail me @ `mohammadfaisalkhatri@gmail.com` or ping me on [LinkedIn](https://www.linkedin.com/in/faisalkhatri/)
-
-## :thought_balloon: Checkout the blogs related to Testing on my [Medium blog](https://medium.com/@iamfaisalkhatri)
+Thanks to - https://www.linkedin.com/in/faisalkhatri for helping the community by sharing the knowledge.
